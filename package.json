@@ -4,6 +4,10 @@
   "displayName": "Soul UI",
   "description": "\"VSCode Theme\"",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/S0ULI/Soul-Theme.git"
+  },
   "engines": {
     "vscode": "^1.57.0"
   },
